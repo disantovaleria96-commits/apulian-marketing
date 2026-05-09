@@ -1,0 +1,22 @@
+# Local dev server (PowerShell static server)
+serve.ps1
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Claude / IDE config locali
+.claude/
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
